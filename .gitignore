@@ -1,0 +1,9 @@
+config.json
+.config-*.tmp
+gost.exe
+*.exe
+dist/
+build/
+*.spec
+.proxy-build-*/
+*.py[cod]
